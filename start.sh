@@ -1,0 +1,1 @@
+gunicorn --config gunicorn.conf model_server:app
